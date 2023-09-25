@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ANUP-098731/react-routing/static/css/main.73038b7b.css",
+    "main.js": "/ANUP-098731/react-routing/static/js/main.ae7f6580.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ANUP-098731/react-routing/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home1.jpg": "/ANUP-098731/react-routing/static/media/home1.3480087ac36fa8c311ec.jpg",
+    "static/media/blog-4.jpg": "/ANUP-098731/react-routing/static/media/blog-4.2cac1e9e52efe925d2f2.jpg",
+    "static/media/blog-2.jpg": "/ANUP-098731/react-routing/static/media/blog-2.74844c2ffde5a4ed34e7.jpg",
+    "static/media/blog-1.jpg": "/ANUP-098731/react-routing/static/media/blog-1.5d46132eca2de4f4d7cc.jpg",
+    "static/media/banner.jpg": "/ANUP-098731/react-routing/static/media/banner.eaf50ad39f0f60b78356.jpg",
+    "static/media/22.jpg": "/ANUP-098731/react-routing/static/media/22.266b871b2468ee0b0d34.jpg",
+    "static/media/bg-4.jpg": "/ANUP-098731/react-routing/static/media/bg-4.dde28d8cce63d71c5e7a.jpg",
+    "static/media/img-3.jpg": "/ANUP-098731/react-routing/static/media/img-3.ce8dd0696d92bc036350.jpg",
+    "static/media/service-1.jpg": "/ANUP-098731/react-routing/static/media/service-1.5f0550dd1987d5e8daff.jpg",
+    "static/media/4.jpg": "/ANUP-098731/react-routing/static/media/4.0a8675fd82c4842292b8.jpg",
+    "static/media/2.jpg": "/ANUP-098731/react-routing/static/media/2.d5827f1ccc3f23abfaeb.jpg",
+    "static/media/img-1.jpg": "/ANUP-098731/react-routing/static/media/img-1.aaa9af25a4c23b86f812.jpg",
+    "static/media/service-3.jpg": "/ANUP-098731/react-routing/static/media/service-3.0682de6b2b60a20a6ac8.jpg",
+    "static/media/service-4.jpg": "/ANUP-098731/react-routing/static/media/service-4.63d1c531400e5eaeb5b8.jpg",
+    "static/media/1.jpg": "/ANUP-098731/react-routing/static/media/1.d864c257859d57b3dac2.jpg",
+    "static/media/3.jpg": "/ANUP-098731/react-routing/static/media/3.b9a20bc0bffa6c705285.jpg",
+    "static/media/img-2.jpg": "/ANUP-098731/react-routing/static/media/img-2.1b8360ef644238eb3020.jpg",
+    "static/media/service-2.jpg": "/ANUP-098731/react-routing/static/media/service-2.c033afb99a3803e8fc04.jpg",
+    "static/media/service-6.jpg": "/ANUP-098731/react-routing/static/media/service-6.af0e356163445d20568c.jpg",
+    "static/media/service-8.jpg": "/ANUP-098731/react-routing/static/media/service-8.b980d8b6156ea7ca13ea.jpg",
+    "static/media/about-1.jpg": "/ANUP-098731/react-routing/static/media/about-1.7a7627e42ed013419502.jpg",
+    "static/media/about-3.jpg": "/ANUP-098731/react-routing/static/media/about-3.60f92970c592e0aa779e.jpg",
+    "static/media/about-4.jpg": "/ANUP-098731/react-routing/static/media/about-4.6631cf5a0b038344bc4e.jpg",
+    "static/media/test-thumb2.jpg": "/ANUP-098731/react-routing/static/media/test-thumb2.9f4df0d22f7cad3773e6.jpg",
+    "static/media/about-2.jpg": "/ANUP-098731/react-routing/static/media/about-2.13554dd5563b4f16bdf9.jpg",
+    "index.html": "/ANUP-098731/react-routing/index.html",
+    "main.73038b7b.css.map": "/ANUP-098731/react-routing/static/css/main.73038b7b.css.map",
+    "main.ae7f6580.js.map": "/ANUP-098731/react-routing/static/js/main.ae7f6580.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ANUP-098731/react-routing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73038b7b.css",
+    "static/js/main.ae7f6580.js"
+  ]
+}
